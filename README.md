@@ -38,7 +38,7 @@ A modern speech-to-speech AI application with a React frontend and Flask backend
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/suryavignesh1304/AI-Speech-to-Speech.git
    cd tensorgo/project
    ```
 
